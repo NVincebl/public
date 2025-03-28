@@ -1,5 +1,5 @@
 ---
-title: Index Title
+title: Home
 ---
 
 Some Content in index.md
