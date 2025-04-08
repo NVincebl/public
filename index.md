@@ -3,5 +3,6 @@ layout: default
 title: Home
 ---
 
-*Under Construction* ;]
+## Welcome to the Realm.
 
+*It's a work in progress...*
