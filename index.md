@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Home
 ---
 
-Some Content in index.md
+*Under Construction* ;]
+
