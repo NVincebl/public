@@ -1,5 +1,8 @@
 ---
+layout: default
 title: Home
 ---
 
-Some Content in index.md
+## Welcome to the Realm.
+
+*It's a work in progress...*
